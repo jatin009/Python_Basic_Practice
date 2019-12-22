@@ -59,7 +59,7 @@ def menu():
 
             info_dict = database.view_entry(account_type)
             if len(info_dict) > 0:
-                print(f"\n\nYour account on \n{account_type} has \n{info_dict['user']} as username and \n{info_dict['pass']} as encrypted password.")
+                print(f"\n\nYour account on \n{account_type} has \n{info_dict['user']} as username and \n{decrypt_password(info_dict['pass'])} as encrypted password.")
                 print("\nKindly take the pain to decrypt it yourself :)")
             else:
                 print("\nNo record found")
