@@ -17,8 +17,6 @@ def date_input(date_str, date_enum = DateFormat.DAY_MON_YEAR):
         else:
             day, month, year = map(int, date_str.split('/'))
         date_obj = datetime.date(year, month, day)
-        if date_obj > datetime.date.today():
-            raise ValueError
         
     except ValueError:
         print("Invalid date provided.")
