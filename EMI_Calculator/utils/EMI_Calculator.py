@@ -4,12 +4,12 @@ from utils import date_functionality
 class EMI_Calculator:
     """ Simple class to calculate EMI and Total repayment for a loan """
 
-    def __init__(self, principal, tenure_in_yrs, interest_pa, last_repayment_date, accumulated_month_amt = 0, cumulative_interest_paid = 0):
+    def __init__(self, principal, tenure, interest, last_repayment_date, accumulated_month_emi=0, cumulative_interest_paid = 0):
         self._principal = principal
-        self._tenure = tenure_in_yrs
-        self._interest = interest_pa
+        self._tenure = tenure
+        self._interest = interest
         self._last_repayment_date = last_repayment_date
-        self._accumulated_month_amt = accumulated_month_amt
+        self._accumulated_month_amt = accumulated_month_emi
         self._cumulative_interest_paid = cumulative_interest_paid
 
     @property

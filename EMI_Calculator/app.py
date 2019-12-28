@@ -27,7 +27,7 @@ def process_new_loan(loan):
         print(f"Total Repayment: {homeloan_emi.total_repayment:,.2f}\n")
 
         obj_for_json = {'base_values': {'principal': loan['p'], 'tenure': loan['t'], 'interest': loan['r'], 'commencement_date': date_conversion(DateFormat.YEAR_MON_DAY, loan['d'])}}
-        obj_for_json = keep_paying(homeloan_emi, obj_for_json)
+        keep_paying(homeloan_emi, obj_for_json)
 
         save = input("You wish to save the loan repayments in a file (y/n): ")
 
@@ -38,6 +38,7 @@ def process_new_loan(loan):
 
 
 def estimated_time_loan_completion(homeloan_emi):
+    """ Fix an emi, this function gives you an estimated time by the end of which you should be loan-free """
     try:
         estimate_emi = float(input("Input the emi you wish to deposit every month: "))
     except ValueError:
@@ -48,11 +49,11 @@ def estimated_time_loan_completion(homeloan_emi):
             completion_output = homeloan_emi.repay(estimate_emi, add_month(homeloan_emi.repayment_date, 1))
 
         if len(completion_output) > 0:
-            print(f"You shall be able to waive off the full loan by {date_conversion(DateFormat.MON_YEAR, completion_output[0]['last_payment_date'])} if you pay an emi of Rs. {estimate_emi:,.2f} every month.")
+            print(f"You shall be able to waive off the full loan by {date_conversion(DateFormat.MON_YEAR, completion_output[0]['last_repayment_date'])} if you pay an emi of Rs. {estimate_emi:,.2f} every month.")
 
 
 def estimated_emi_loan_completion(homeloan_emi):
-
+    """ Fix the last repayment month, this function gives you an estimated emi per month by when you should be loan-free """
     last_repayment_date = date_input( "01/" + input("Please input month-year by which you wish your loan to be ended(in MM/YYYY format): "))
 
     rem_months = month_diff(last_repayment_date, homeloan_emi.repayment_date)
@@ -60,7 +61,7 @@ def estimated_emi_loan_completion(homeloan_emi):
     
     calc_factor = pow((1+monthly_rate), rem_months)
     emi = (homeloan_emi.principal*monthly_rate)*(calc_factor)/(calc_factor-1)
-    print(f"You require an EMI of Rs. {emi} per month till {date_conversion(DateFormat.MON_YEAR, last_repayment_date)}")
+    print(f"You require an EMI of Rs. {emi:,.2f} per month till {date_conversion(DateFormat.MON_YEAR, last_repayment_date)}")
 
 
 def keep_paying(homeloan_emi, obj_for_json):
@@ -97,11 +98,17 @@ def keep_paying(homeloan_emi, obj_for_json):
 
         if key_input != 'n' and len(month_installment) > 0:
 
-            obj_for_json['installments'].extend(month_installment)
+            # key is already present in case of repaying
+            if 'installments' in obj_for_json:
+                obj_for_json['installments'] += month_installment
+
+            # key is added for new loan
+            else:
+                obj_for_json['installments'] = month_installment
+                
             obj_for_json['remaining_values'] = {'principal': homeloan_emi.principal, 'tenure': homeloan_emi.tenure, 'interest': homeloan_emi.interest,
                                   'last_repayment_date': date_conversion(DateFormat.YEAR_MON_DAY, homeloan_emi.repayment_date),
                                                 'accumulated_month_emi': homeloan_emi.accumulated_month_amt, 'cumulative_interest_paid': homeloan_emi.cumulative_interest_paid}
-            return obj_for_json
 
 
 def menu():
@@ -125,14 +132,9 @@ def menu():
                 print("\nLooks like nothing to repay, better start a fresh loan :)\n")
                 continue
 
-            
-            p = loan_obj['remaining_values']['principal']
-            r = loan_obj['remaining_values']['interest']
-            t = loan_obj['remaining_values']['tenure']
-            d = date_input(loan_obj['remaining_values']['last_repayment_date'], DateFormat.YEAR_MON_DAY)
-            e = loan_obj['remaining_values']['accumulated_month_emi']
-            c = loan_obj['remaining_values']['cumulative_interest_paid']
-            homeloan_emi = EMI_Calculator(p, t, r, d, e, c)
+            loan_dict = loan_obj['remaining_values']
+            loan_dict['last_repayment_date'] = date_input(loan_dict['last_repayment_date'], DateFormat.YEAR_MON_DAY)
+            homeloan_emi = EMI_Calculator(**loan_dict)
 
             print(f"""\n\nYour loan details are:
     Remaining Principal: {homeloan_emi.principal:,.2f}
@@ -152,7 +154,7 @@ def menu():
 - Go to main menu (g)
 """)                
                 if option == 'r':        
-                    obj_for_json = keep_paying(homeloan_emi, loan_obj)
+                    keep_paying(homeloan_emi, loan_obj)
 
                     with open('utils/loan.json', 'w') as file:
                         json.dump(obj_for_json, file)
