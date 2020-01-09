@@ -23,8 +23,10 @@ class FileDialog:
             with open(filename, "r") as reader:
                 page = reader.read()
             logger.info('File read successfully')
-        except Exception:
+        except FileNotFoundError:
             logger.error('Unable to open the file')
+        except FileExistsError:
+            logger.error('Unable to locate file')
         else:
             return page
 
