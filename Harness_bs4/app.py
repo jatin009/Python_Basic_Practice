@@ -48,8 +48,10 @@ class ParsedGameWiseRTP:
             with open("C:/Users/" + getpass.getuser() + "/Desktop/HarnessSummary.csv", 'a') as writer:
                 writer.write(self.write_str)
             logger.info('Harness data successfully written to file.')
-        except Exception:
+        except FileNotFoundError:
             logger.error('Unable to open the HarnessSummary.csv file.')
+        except FileExistsError:
+            logger.error('Unable to locate the HarnessSummary.csv file.')
 
 
 initialize_logger()
