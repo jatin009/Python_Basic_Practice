@@ -58,6 +58,6 @@ initialize_logger()
 logger = logging.getLogger(__name__)
 
 file_dialog = FileDialog()
-game_wise_rtp = ParsedGameWiseRTP(file_dialog.read_html_page())
-
-game_wise_rtp.create_harness_summary()
+if file_dialog.read_html_page():
+    game_wise_rtp = ParsedGameWiseRTP(file_dialog.read_html_page())
+    game_wise_rtp.create_harness_summary()
