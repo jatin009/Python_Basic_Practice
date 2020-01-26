@@ -1,0 +1,1577 @@
+('C:\\Documents\\Python_Learning\\DailyQuote\\build\\DailyQuote\\PYZ-00.pyz',
+ [('ssl',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\token.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x448',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\fractions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x509',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x509.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dh',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hashes',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.encode_asn1',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\encode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._der',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\_der.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.x509.ocsp',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\x509\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.scrypt',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\scrypt.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x25519',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dsa',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hmac',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ocsp',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ec',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.interfaces',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\interfaces.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed448',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.utils',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.poly1305',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\poly1305.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed25519',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\hp '
+   'laptop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE')])
